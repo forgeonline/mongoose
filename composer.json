@@ -3,7 +3,7 @@
     "description": "Forge online action module for Mongoose",
     "require": {
         "php": "~5.6.0|7.0.2|~7.0.6",
-		"forgeonline/action": "0.0.4"
+		"forgeonline/action": "0.0.5"
     },
     "type": "magento2-module",
     "version": "0.0.4",
